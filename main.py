@@ -6,7 +6,7 @@ import warnings
 # ==========================================
 # PASTE YOUR YOUTUBE URL HERE
 # ==========================================
-VIDEO_URL = "https://www.youtube.com/watch?v=KMrhBGw56LI"
+VIDEO_URL = "https://www.youtube.com/watch?v=xjdsrRyqwtI"
 
 # Suppress urllib3 warnings about OpenSSL
 warnings.filterwarnings("ignore")
